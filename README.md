@@ -36,8 +36,7 @@ The network contains multiple areas including:
 - Administration Office
 
 ## Authors
--Judi M.
--Ghaida Alsulami
--Fatimah AlKayat
--Hessa Aldosarry 
-Communication and Networking Project
+- Judi M.
+- Ghaida Alsulami
+- Fatimah AlKayat
+- Hessa Aldosarry 
